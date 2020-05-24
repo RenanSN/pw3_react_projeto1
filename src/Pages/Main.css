@@ -31,11 +31,10 @@ nav li{
 nav a{
     text-decoration: none;
     color: black;
-    /* background-color: rgb(89, 0, 255); */
 }
 
 main{
-    background-color: #424242;
+    background-color: hsl(0, 0%, 26%);
     color: #ecf0f1;
 }
 
