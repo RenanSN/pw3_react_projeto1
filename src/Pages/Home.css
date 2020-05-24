@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+/* TITULO */
+
+.titulo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    padding: 25px 0px 10px 0px;
+    /* background-color: brown; */
+}
+
+.subtitulo{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+    /* background-color: darkblue; */
+}
+
+/* CARDS */
+.cardfrontend{
+    padding: 10px;  
+    background-image: url(../img/img_frontend.png);
+    text-align: right;
+    color: floralwhite;
+    margin: 20px;
+    background-size: 100%;
+}
+
+.cardbackend{
+    padding: 10px;  
+    background-image: url(../img/img_backend.png);
+    text-align: left;
+    color: #dfe6e9;
+    margin: 20px;
+    background-size: 100%;
+}
+
+.cardmobile{
+    padding: 10px;  
+    background-image: url(../img/img_mobile.png);
+    background-size: 100%;
+    text-align: right;
+    color: rgba(231, 231, 231, 0.979);
+    margin: 20px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.603); 
+}
+
+.carddba{
+    padding: 10px;  
+    background-image: url(../img/img_dba.png);
+    margin: 20px;
+    color: #d0d7da;
+    background-size: 100%;
+    text-shadow: 1px 1px #0f0f0f31; 
+}
+
+.cardgames{
+    padding: 10px;  
+    background-image: url(../img/img_games.png);
+    margin: 20px;
+    text-shadow: 1px 1px #00000090;
+    text-align: right;
+    color: #dddddd;
+    background-size: 100%;
+}
+
+
+
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
