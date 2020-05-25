@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Geralmobile from '../components/Geralmobile';
-
-import './Stylepages.css'
+import './Stylepages.css';
 
 function Mobile(){
 

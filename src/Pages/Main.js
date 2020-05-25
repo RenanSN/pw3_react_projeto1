@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import './Main.css';
 import Footer from '../components/Footer';
@@ -16,9 +15,9 @@ function Main() {
         <>
             <BrowserRouter>
                 <header>
-                <a href="https://github.com/RenanSN/pw3_react_projeto1" target="_blank">
-                    <img src="https://img.icons8.com/cotton/64/000000/web-design.png" className="logo"/>
-                </a>
+                    <a href="https://github.com/RenanSN/pw3_react_projeto1" target="_blank">
+                        <img src="https://img.icons8.com/cotton/64/000000/web-design.png" className="logo"/>
+                    </a>
                     <nav>
                         <ul>
                             <li> <Link to="/"><img src="https://img.icons8.com/ios-filled/25/000000/dog-house.png"/> Home</Link> </li>

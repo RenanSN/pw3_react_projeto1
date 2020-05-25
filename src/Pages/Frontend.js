@@ -1,6 +1,5 @@
 import React from 'react';
-
-import './Stylepages.css'
+import './Stylepages.css';
 
 function Frontend(){
 

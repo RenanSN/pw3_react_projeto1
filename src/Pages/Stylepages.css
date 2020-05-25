@@ -23,4 +23,7 @@ div .titulofrontend, .titulomobile, .titulobackend, .titulodba, .titulogames{
     background-size: cover;
     padding: 10%;
     text-align: center;
+    border-radius: 15px;
+    color: #c9bfbf;
+    text-shadow: 1px 1px #000000fb;
 }

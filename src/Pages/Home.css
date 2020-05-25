@@ -1,63 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
 
-/* TITULO */
+/* TITULOS */
 
 .titulo{
     font-family: 'Roboto', sans-serif;
     font-size: 80px;
     text-align: center;
     padding: 25px 0px 10px 0px;
-    /* background-color: brown; */
 }
 
 .subtitulo{
     font-family: 'Roboto', sans-serif;
     text-align: center;
     margin-bottom: 40px;
-    /* background-color: darkblue; */
 }
 
 /* CARDS */
+
 .cardfrontend{
     background-image: url(../img/img_frontend.png);
     text-align: right;
-    color: floralwhite;
 }
 
 .cardbackend{
     background-image: url(../img/img_backend.png);
-    text-align: left;
-    color: #dfe6e9;
 }
 
 .cardmobile{  
     background-image: url(../img/img_mobile.png);
     text-align: right;
-    color: rgba(231, 231, 231, 0.979);
-    text-shadow: 1px 1px rgba(0, 0, 0, 0.603); 
 }
 
 .carddba{
     background-image: url(../img/img_dba.png);
-    color: #d0d7da;
-    text-shadow: 1px 1px #0f0f0f31; 
 }
 
 .cardgames{
     background-image: url(../img/img_games.png);
-    text-shadow: 1px 1px #00000090;
     text-align: right;
-    color: #dddddd;
 }
 
 div .cardfrontend, .cardbackend, .cardmobile, .carddba, .cardgames{
     padding: 10px;
     background-size: 100%;
     margin: 20px;
+    border-radius: 15px;
+    color: #c9bfbf;
+    text-shadow: 1px 1px #000000fb;
 }
-
-
-
 
 h4{
     font-family: 'Roboto', sans-serif;
