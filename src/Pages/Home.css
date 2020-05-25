@@ -19,50 +19,41 @@
 
 /* CARDS */
 .cardfrontend{
-    padding: 10px;  
     background-image: url(../img/img_frontend.png);
     text-align: right;
     color: floralwhite;
-    margin: 20px;
-    background-size: 100%;
 }
 
 .cardbackend{
-    padding: 10px;  
     background-image: url(../img/img_backend.png);
     text-align: left;
     color: #dfe6e9;
-    margin: 20px;
-    background-size: 100%;
 }
 
-.cardmobile{
-    padding: 10px;  
+.cardmobile{  
     background-image: url(../img/img_mobile.png);
-    background-size: 100%;
     text-align: right;
     color: rgba(231, 231, 231, 0.979);
-    margin: 20px;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.603); 
 }
 
 .carddba{
-    padding: 10px;  
     background-image: url(../img/img_dba.png);
-    margin: 20px;
     color: #d0d7da;
-    background-size: 100%;
     text-shadow: 1px 1px #0f0f0f31; 
 }
 
 .cardgames{
-    padding: 10px;  
     background-image: url(../img/img_games.png);
-    margin: 20px;
     text-shadow: 1px 1px #00000090;
     text-align: right;
     color: #dddddd;
+}
+
+div .cardfrontend, .cardbackend, .cardmobile, .carddba, .cardgames{
+    padding: 10px;
     background-size: 100%;
+    margin: 20px;
 }
 
 

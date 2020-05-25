@@ -1,0 +1,26 @@
+.titulofrontend{
+    background-image: url("../img/img_frontend.png");
+}
+
+.titulomobile{
+    background-image: url("../img/img_mobile.png");
+}
+
+.titulobackend{
+    background-image: url("../img/img_backend.png");
+}
+
+.titulodba{
+    background-image: url("../img/img_dba.png");
+}
+
+.titulogames{
+    background-image: url("../img/img_games.png");
+}
+
+div .titulofrontend, .titulomobile, .titulobackend, .titulodba, .titulogames{
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10%;
+    text-align: center;
+}
