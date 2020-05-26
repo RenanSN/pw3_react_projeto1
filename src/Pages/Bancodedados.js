@@ -16,7 +16,7 @@ function Bancodedados(){
             </div>
             <br/>
             <h1>Banco de Dados:</h1>
-            <ul>
+            <ul className="submenu">
                 <li onClick={ ()=> { setRelacional(!relacional) }}>Relacional</li>
                 <li onClick={ ()=> { setNosql(!nosql) }}>NoSQL</li>
             </ul>

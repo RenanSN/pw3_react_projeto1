@@ -18,7 +18,7 @@ function Mobile(){
             </div>
             <br/>
             <h1>Plataformas:</h1>
-            <ul>
+            <ul className="submenu">
                 <li onClick={ ()=> { setAndroid(!android) }}>Android</li>
                 <li onClick={ ()=> { setIos(!ios) }}>IOS</li>
                 <li onClick={ ()=> { setHibrido(!hibrido) }}>Hibrido</li>

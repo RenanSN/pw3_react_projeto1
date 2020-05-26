@@ -44,3 +44,27 @@ div p{
     width: auto;
     height: auto;
 }
+
+.imgmobile{
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+}
+
+.imgdba{
+    max-width:400px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    border-radius: 15px;
+}
+
+.submenu li{
+    list-style-type: none;
+    display: inline;
+    margin: 0px 55px 0px 0px;
+    font-size: 25px;
+    font-weight: lighter;
+}

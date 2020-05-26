@@ -12,12 +12,12 @@ function Frontend(){
             </div>
             <br/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/html-5.png"/><br/>HTML (HyperText Markup Language)</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/html-5.png"/><br/>HTML 5 (HyperText Markup Language)</h5>
                 <p>HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo.</p>
             </div>
             <hr/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/css3.png"/><br/>CSS (Cascading Style Sheets)</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/css3.png"/><br/>CSS 3 (Cascading Style Sheets)</h5>
                 <p>Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags style . Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.</p>
             </div>
             <hr/>
