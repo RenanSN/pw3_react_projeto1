@@ -24,16 +24,16 @@ function Geraldba(props){
         var titulo4 = <h5 className="titulocomimagem"><img src={Sqlite} className="imgdba"/><br/>SQLite</h5>
         var informacao4 = <p>SQLite é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido. Programas que usam a biblioteca SQLite podem ter acesso a banco de dados SQL sem executar um processo SGBD separado.</p>
     } else {
-        var titulo1 = <h5 className="titulocomimagem"><img src={Mongodb} className="imgdba"/>MongoDB</h5>
+        var titulo1 = <h5 className="titulocomimagem"><img src={Mongodb} className="imgdba"/><br/>MongoDB</h5>
         var informacao1 = <p>MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas.</p>
 
-        var titulo2 = <h5 className="titulocomimagem"><img src={Firebase} className="imgdba"/>Firebase</h5>
+        var titulo2 = <h5 className="titulocomimagem"><img src={Firebase} className="imgdba"/><br/>Firebase</h5>
         var informacao2 = <p>O Firebase é uma plataforma de desenvolvimento de aplicativos para dispositivos móveis e web desenvolvida pela Firebase, Inc. em 2011 e adquirida pelo Google em 2014. Em março de 2020, a plataforma Firebase possui 19 produtos, usados ​​por mais de 1,5 milhão de aplicativos.</p>
 
-        var titulo3 = <h5 className="titulocomimagem"><img src={Dynamobd} className="imgdba"/>Amazon DynamoDB</h5>
+        var titulo3 = <h5 className="titulocomimagem"><img src={Dynamobd} className="imgdba"/><br/>Amazon DynamoDB</h5>
         var informacao3 = <p>O Amazon DynamoDB é um serviço de banco de dados NoSQL proprietário totalmente gerenciado que suporta estruturas de dados de valor-chave e documentos e é oferecido pela Amazon.com como parte do portfólio da Amazon Web Services.</p>
 
-        var titulo4 = <h5 className="titulocomimagem"><img src={Cassandra} className="imgdba"/>Apache Cassandra</h5>
+        var titulo4 = <h5 className="titulocomimagem"><img src={Cassandra} className="imgdba"/><br/>Apache Cassandra</h5>
         var informacao4 = <p>Apache Cassandra é um projeto de sistema de banco de dados distribuído altamente escalável de segunda geração, que reúne a arquitetura do DynamoDB, da Amazon Web Services e modelo de dados baseado no BigTable, do Google.</p>
     }
 

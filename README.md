@@ -12,7 +12,7 @@ Entre na pasta:
 ```sh
 $ cd pw3_react_projeto1
 ```
-Instale a dependecias do projeto:
+Instale as dependências do projeto:
 ```sh
 $ npm install
 ```
