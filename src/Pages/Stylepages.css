@@ -27,3 +27,20 @@ div .titulofrontend, .titulomobile, .titulobackend, .titulodba, .titulogames{
     color: #c9bfbf;
     text-shadow: 1px 1px #000000fb;
 }
+
+.titulocomimagem{
+    text-align: center;
+    margin: 20px;
+}
+
+div p{
+    text-align: justify;
+    margin-bottom: 15px;
+}
+
+.tamanhoimg{
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}

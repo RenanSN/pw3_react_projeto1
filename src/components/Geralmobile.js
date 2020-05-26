@@ -65,6 +65,7 @@ function Geralmobile(props){
             {informacao3}
             <br/>
             <hr/>
+            <br/>
         </>
     );
 

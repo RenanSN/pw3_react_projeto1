@@ -16,12 +16,13 @@ function Bancodedados(){
             </div>
             <br/>
             <h1>Banco de Dados:</h1>
-            <div>
-                <h5 onClick={ ()=> { setRelacional(!relacional) }}>Relacional</h5>
-                <h5 onClick={ ()=> { setNosql(!nosql) }}>NoSQL</h5>
-            </div>
+            <ul>
+                <li onClick={ ()=> { setRelacional(!relacional) }}>Relacional</li>
+                <li onClick={ ()=> { setNosql(!nosql) }}>NoSQL</li>
+            </ul>
             <br/>
             <hr/>
+            <br/>
             {relacional && <Geraldba titulo="Relacional"/>}
             {nosql && <Geraldba titulo="Nosql"/>}
         </>

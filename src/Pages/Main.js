@@ -16,7 +16,7 @@ function Main() {
             <BrowserRouter>
                 <header>
                     <a href="https://github.com/RenanSN/pw3_react_projeto1" target="_blank">
-                        <img src="https://img.icons8.com/cotton/64/000000/web-design.png" className="logo"/>
+                        <img src="https://img.icons8.com/fluent/68/000000/web-design.png" className="logo"/>
                     </a>
                     <nav>
                         <ul>

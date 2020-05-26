@@ -18,13 +18,14 @@ function Mobile(){
             </div>
             <br/>
             <h1>Plataformas:</h1>
-            <div>
-                <h5 onClick={ ()=> { setAndroid(!android) }}>Android</h5>
-                <h5 onClick={ ()=> { setIos(!ios) }}>IOS</h5>
-                <h5 onClick={ ()=> { setHibrido(!hibrido) }}>Hibrido</h5>
-            </div>
+            <ul>
+                <li onClick={ ()=> { setAndroid(!android) }}>Android</li>
+                <li onClick={ ()=> { setIos(!ios) }}>IOS</li>
+                <li onClick={ ()=> { setHibrido(!hibrido) }}>Hibrido</li>
+            </ul>
             <br/>
             <hr/>
+            <br/>
             {android && <Geralmobile titulo="Android"/>}
             {ios && <Geralmobile titulo="IOS"/>}
             {hibrido && <Geralmobile titulo="Hibrido"/>}

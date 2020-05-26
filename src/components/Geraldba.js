@@ -60,6 +60,7 @@ function Geraldba(props){
             {informacao4}
             <br/>
             <hr/>
+            <br/>
         </>
     );
 }
