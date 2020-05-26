@@ -22,3 +22,5 @@ $ npm start
 ```
 
 Acesse a página no link: http://localhost:3000
+
+**Obs:** A pagina não esta responsiva.
