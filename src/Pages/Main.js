@@ -20,12 +20,12 @@ function Main() {
                     </a>
                     <nav>
                         <ul>
-                            <li> <Link to="/"><img src="https://img.icons8.com/ios-filled/25/000000/dog-house.png"/> Home</Link> </li>
-                            <li> <Link to="/Frontend"><img src="https://img.icons8.com/pastel-glyph/25/000000/monitor.png"/> Front-End</Link> </li>
-                            <li> <Link to="/Backend"><img src="https://img.icons8.com/ios/25/000000/console.png"/> Back-End</Link> </li>
-                            <li> <Link to="/Mobile"><img src="https://img.icons8.com/ios/25/000000/smartphone-tablet.png"/> Mobile</Link> </li>
-                            <li> <Link to="/Bancodedados"><img src="https://img.icons8.com/ios/25/000000/database-restore.png"/> DBA</Link> </li>
-                            <li> <Link to="/Games"><img src="https://img.icons8.com/ios/25/000000/controller.png"/> Games</Link> </li>
+                            <li> <Link to="/"><img src="https://img.icons8.com/ios-filled/25/ffffff/dog-house.png"/> Home</Link> </li>
+                            <li> <Link to="/Frontend"><img src="https://img.icons8.com/pastel-glyph/25/ffffff/monitor.png"/> Front-End</Link> </li>
+                            <li> <Link to="/Backend"><img src="https://img.icons8.com/ios/25/ffffff/console.png"/> Back-End</Link> </li>
+                            <li> <Link to="/Mobile"><img src="https://img.icons8.com/ios/25/ffffff/smartphone-tablet.png"/> Mobile</Link> </li>
+                            <li> <Link to="/Bancodedados"><img src="https://img.icons8.com/ios/25/ffffff/database-restore.png"/> DBA</Link> </li>
+                            <li> <Link to="/Games"><img src="https://img.icons8.com/ios/25/ffffff/controller.png"/> Games</Link> </li>
                         </ul>
                     </nav> 
                 </header>

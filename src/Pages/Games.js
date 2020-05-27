@@ -22,7 +22,7 @@ function Games(){
             </div>
             <hr/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/ios/150/000000/unreal-engine--v1.png"/><br/>Unreal Engine</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/ios/150/000000/unreal-engine--v1.png" className="tamanhoimg"/><br/>Unreal Engine</h5>
                 <p>Unreal Engine é um motor de jogo desenvolvido pela Epic Games, usado pela primeira vez em 1998 no jogo de tiro em primeira pessoa Unreal, ele tem sido a base de muitos jogos desde então.</p>
             </div>
             <hr/>

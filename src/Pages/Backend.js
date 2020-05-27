@@ -17,22 +17,22 @@ function Backend(){
             </div>
             <br/>
             <div>
-                <h5 className="titulocomimagem"> <img src="https://img.icons8.com/ios-filled/150/8E44AD/c-sharp-logo.png"></img> <br/> C# (C Sharp)</h5>
+                <h5 className="titulocomimagem"> <img src="https://img.icons8.com/ios-filled/150/8E44AD/c-sharp-logo.png"className="tamanhoimg"></img> <br/> C# (C Sharp)</h5>
                 <p>C# é uma linguagem de programação, multiparadigmas, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos e eventos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.</p>
             </div>
             <hr/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/officel/150/000000/php-logo.png"/><br/>PHP</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/officel/150/000000/php-logo.png"className="tamanhoimg"/><br/>PHP</h5>
                 <p>PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.</p>
             </div>
             <hr/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/python.png"/><br/>Python</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/python.png"className="tamanhoimg"/><br/>Python</h5>
                 <p>Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.</p>
             </div>
             <hr/>
             <div>
-                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/ruby-programming-language.png"/><br/>Ruby</h5>
+                <h5 className="titulocomimagem"><img src="https://img.icons8.com/color/150/000000/ruby-programming-language.png"className="tamanhoimg"/><br/>Ruby</h5>
                 <p>Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro "Matz" Matsumoto, para ser usada como linguagem de script.</p>
             </div>
             <hr/>

@@ -41,6 +41,7 @@
 }
 
 div .cardfrontend, .cardbackend, .cardmobile, .carddba, .cardgames{
+    font-family: 'Roboto', sans-serif;
     padding: 10px;
     background-size: 100%;
     margin: 20px;
