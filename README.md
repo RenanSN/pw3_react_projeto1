@@ -2,7 +2,7 @@
 
 Trabalho escolar para mensão parcial do primeiro Semestre de 2020, da diciplina de **PW 3** (**P**rogramação **W**eb **3**) do **_Curso Técnico de Desenvolvimento de Sistemas da Etec de Embu_**, orientado pelo professor **Luis Felipe**.
 
-## Instalação e Visualização do projeto
+## Instalação e Visualização do Projeto Localmente
 
 Faça o clone do repositório:
 ```sh
@@ -21,6 +21,8 @@ Inicie o projeto:
 $ npm start
 ```
 
-Acesse a página no link: http://localhost:3000
+Acesse a página no link: http://localhost:3000<br>
+ou<br> 
+veja a pagina diretamentamente por esse link: https://pw3-react-projeto1.vercel.app/
 
 > **Obs:** A pagina não esta responsiva.
